@@ -1,1 +1,2 @@
-# socket
+# install node websocket
+# npm start
